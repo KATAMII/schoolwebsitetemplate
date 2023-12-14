@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/blob/main/LICENSE.txt</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/issues</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/pulls</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/actions</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/projects?query=is%3Aopen</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/security</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/commit/7a6d3ed0fc590b7c266f673b758b66c0f9d80d6a</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/commit/668068256ccaff529dbd3f23a0251f5aa2f42360</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/blob/main/READ-ME.txt</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/commit/4814c3561112984139af69bbe05bdeb2e7722e9e</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/releases</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/labels</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/milestones</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/compare</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/actions/caches</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/actions/runs/7209618717</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/actions/runs/7209464495</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/labels?sort=name-asc</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/labels?sort=name-desc</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/labels?sort=count-desc</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/labels?sort=count-asc</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/labels/bug</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/labels/documentation</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/labels/duplicate</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/labels/enhancement</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/labels/good%20first%20issue</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/labels/help%20wanted</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/labels/invalid</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/labels/question</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/labels/wontfix</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/milestones?state=open</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/milestones?state=closed</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/actions/runs/7209618717/job/19640942209</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/actions/runs/7209618717/job/19640960403</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/actions/runs/7209618717/job/19640960054</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/actions/runs/7209618717/usage</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/actions/runs/7209464495/job/19640458237</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/actions/runs/7209464495/job/19640476699</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/actions/runs/7209464495/job/19640477020</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/actions/runs/7209464495/usage</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/KATAMII/schoolwebsitetemplate/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-12-14T13:39:07+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
